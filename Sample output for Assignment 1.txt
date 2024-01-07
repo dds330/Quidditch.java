@@ -1,0 +1,86 @@
+Sample output for Assignment 1:
+Player Sirius
+Player James
+Field: [0.0, 0.0] 500.0, 400.0
+Ball is at (100.0, 200.0)
+
+
+Player Sirius kicks the ball for a distance of 300.0 pixels at 45.0 degrees
+Ball was reflected
+Ball is at (312.13203435596427, 200.0)
+
+Player James kicks the ball for a distance of 500.0 pixels at 0.0 degrees
+Ball was reflected
+Ball is at (312.13203435596427, 200.0)
+
+Player Sirius kicks the ball for a distance of 100.0 pixels at 270.0 degrees
+Ball was reflected
+Ball is at (312.13203435596427, 100.0)
+
+Player James kicks the ball for a distance of 256.0 pixels at 179.0 degrees
+Ball was reflected
+Ball is at (56.1710243959281, 104.46781604794457)
+
+Player Sirius kicks the ball for a distance of 365.0 pixels at 90.0 degrees
+Ball was reflected
+Ball is at (56.17102439592812, 104.46781604794457)
+
+Player James kicks the ball for a distance of 189.0 pixels at 321.0 degrees
+Ball was reflected
+Ball is at (203.05161111129556, 104.46781604794457)
+
+Player Sirius kicks the ball for a distance of 521.0 pixels at 248.0 degrees
+Ball was reflected
+Ball is at (7.881575941605263, 104.46781604794457)
+
+Player James kicks the ball for a distance of 45.0 pixels at 132.0 degrees
+Ball was reflected
+Ball is at (7.881575941605263, 137.9093331944273)
+
+Player Sirius kicks the ball for a distance of 398.0 pixels at 204.0 degrees
+Ball was reflected
+Ball is at (7.881575941605263, 137.9093331944273)
+
+Player James kicks the ball for a distance of 287.0 pixels at 53.0 degrees
+Ball was reflected
+Ball is at (180.60248758624314, 367.1177245780003)
+
+Player Sirius kicks the ball for a distance of 564.0 pixels at 297.0 degrees
+Ball was reflected
+Ball is at (436.6531294393475, 367.1177245780003)
+
+Player James kicks the ball for a distance of 73.0 pixels at 216.0 degrees
+Ball was reflected
+Ball is at (377.5948888499763, 324.2094011606498)
+
+Player Sirius kicks the ball for a distance of 543.0 pixels at 331.0 degrees
+Ball was reflected
+Ball is at (377.5948888499763, 60.95777736688888)
+
+Player James kicks the ball for a distance of 156.0 pixels at 287.0 degrees
+Ball was reflected
+Ball is at (423.2048747867232, 60.95777736688888)
+
+Player Sirius kicks the ball for a distance of 412.0 pixels at 64.0 degrees
+Ball was reflected
+Ball is at (423.2048747867232, 60.95777736688888)
+
+Player James kicks the ball for a distance of 289.0 pixels at 152.0 degrees
+Ball was reflected
+Ball is at (168.03302045049332, 196.63505901201128)
+
+Player Sirius kicks the ball for a distance of 499.0 pixels at 326.0 degrees
+Ball was reflected
+Ball is at (168.03302045049332, 196.63505901201128)
+
+Player James kicks the ball for a distance of 94.0 pixels at 217.0 degrees
+Ball was reflected
+Ball is at (92.9612825060478, 140.06444683571874)
+
+Player Sirius kicks the ball for a distance of 578.0 pixels at 82.0 degrees
+Ball was reflected
+Ball is at (173.40333486096563, 140.06444683571874)
+
+Player James kicks the ball for a distance of 365.0 pixels at 315.0 degrees
+Ball was reflected
+Ball is at (431.4973099940554, 140.06444683571874)
